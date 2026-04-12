@@ -8,20 +8,13 @@ Open `snd.html` in a browser (or serve the project root with any static file ser
 
 ## Documentation
 
-Project documentation lives in the **[`docs/`](docs/)** folder. On GitHub, browse the repository and open `docs` to read it with rendered Markdown.
+**Authoritative documentation** lives in the **[GitHub Wiki](https://github.com/zFlux/soundwave/wiki)** for [zFlux/soundwave](https://github.com/zFlux/soundwave). Edit pages in the wiki UI, or clone the wiki repository (`https://github.com/zFlux/soundwave.wiki.git`) and push Markdown changes. See **[GitHub Wiki notes](https://github.com/zFlux/soundwave/wiki/github-wiki-setup)** on the wiki for clone and publish workflow.
 
-### GitHub Wiki (optional)
-
-GitHub’s **Wiki** is a separate space from this repository: you enable it under **Repository → Settings → Features → Wikis**, then create pages in the web UI or clone the wiki git repository (`https://github.com/<owner>/<repo>.wiki.git`) and push Markdown files. The wiki is useful for informal notes and long-form exploration; keeping canonical docs in `docs/` means they stay in the main repo for review and history.
-
-See **[`docs/github-wiki-setup.md`](docs/github-wiki-setup.md)** for a concise setup and how it relates to the files here.
-
-## Contents
-
-| Topic | File |
-|--------|------|
-| Index of all docs | [`docs/README.md`](docs/README.md) |
-| Why “draw the wave” is the wrong grain | [`docs/design-grain-and-abstraction.md`](docs/design-grain-and-abstraction.md) |
-| Useful, playful ways to control sound | [`docs/fun-useful-sound-control.md`](docs/fun-useful-sound-control.md) |
-| How this codebase maps drawing to audio | [`docs/how-soundwave-works.md`](docs/how-soundwave-works.md) |
-| GitHub Wiki setup | [`docs/github-wiki-setup.md`](docs/github-wiki-setup.md) |
+| Topic | Wiki page |
+|--------|-----------|
+| Wiki home (reading order) | [Home](https://github.com/zFlux/soundwave/wiki) |
+| Why “draw the wave” is the wrong grain | [design-grain-and-abstraction](https://github.com/zFlux/soundwave/wiki/design-grain-and-abstraction) |
+| Useful, playful ways to control sound | [fun-useful-sound-control](https://github.com/zFlux/soundwave/wiki/fun-useful-sound-control) |
+| Planned tabbed workflow (prompt → edit → arrange) | [staged-workflow-design](https://github.com/zFlux/soundwave/wiki/staged-workflow-design) |
+| How this codebase maps drawing to audio | [how-soundwave-works](https://github.com/zFlux/soundwave/wiki/how-soundwave-works) |
+| Wiki setup and relationship to this repo | [github-wiki-setup](https://github.com/zFlux/soundwave/wiki/github-wiki-setup) |
