@@ -13,6 +13,7 @@ Open `snd.html` in a browser (or serve the project root with any static file ser
 | Topic | Wiki page |
 |--------|-----------|
 | Wiki home (reading order) | [Home](https://github.com/zFlux/soundwave/wiki) |
+| Product vision, State A vs B, success metric | [product-vision-and-state](https://github.com/zFlux/soundwave/wiki/product-vision-and-state) |
 | Why “draw the wave” is the wrong grain | [design-grain-and-abstraction](https://github.com/zFlux/soundwave/wiki/design-grain-and-abstraction) |
 | Useful, playful ways to control sound | [fun-useful-sound-control](https://github.com/zFlux/soundwave/wiki/fun-useful-sound-control) |
 | Planned tabbed workflow (prompt → edit → arrange) | [staged-workflow-design](https://github.com/zFlux/soundwave/wiki/staged-workflow-design) |
