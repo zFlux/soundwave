@@ -8,8 +8,10 @@ This folder is the **canonical documentation** for the Soundwave project. It is 
 
 2. **[Fun, useful sound control](fun-useful-sound-control.md)** — Patterns for making sound manipulation approachable and expressive (parameters, time, effects, synthesis metaphors).
 
-3. **[How Soundwave works](how-soundwave-works.md)** — How this repository turns canvas geometry into audio in practice.
+3. **[Design: staged workflow (tabs)](staged-workflow-design.md)** — Planned three-tab flow: prompt → generated sample, per-sample shaping, then sequencing, layering, and global edits (fades, mix, export).
 
-4. **[GitHub Wiki setup](github-wiki-setup.md)** — Enabling the wiki and optional sync ideas.
+4. **[How Soundwave works](how-soundwave-works.md)** — How this repository turns canvas geometry into audio in practice.
 
-Together, (1) and (2) are the **conceptual spine** for “how to achieve the purpose” of modifiable sound without getting lost in waveform pixels; (3) grounds that in the actual code.
+5. **[GitHub Wiki setup](github-wiki-setup.md)** — Enabling the wiki and optional sync ideas.
+
+Together, (1) and (2) are the **conceptual spine** for modifiable sound without getting lost in waveform pixels; (3) is the **product UX** direction for AI-first creation plus DSP; (4) grounds concepts in the actual code.
